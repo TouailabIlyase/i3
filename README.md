@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installing i3 on Linux Mint 18.2 Cinnamon, Mate or Xfce
 Date    : 21/07/2017
 Version : v2.0.1
@@ -75,3 +76,7 @@ Share the knowledge.
 
 I share my knowledge at http://erikdubois.be
 ------------------------------------------------
+=======
+# i3
+display manager to change between xserver
+>>>>>>> 05e89d17a8dc545dfea4e3beb3c341707d732757

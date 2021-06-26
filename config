@@ -432,7 +432,7 @@ assign [class="Vmplayer|VirtualBox"]	                                           
 assign [class="Chromium-browser|Google-chrome"]                                     → $w8
 
 # Workspace 9 email clients
-assign [class="Geary|Evolution"]               → $w9
+assign [class="Geary|Evolution|TelegramDesktop"]               → $w9
 assign [class="Cinnamon-settings.py"]          → $w0
 
 # Workspace 10 music related
@@ -948,7 +948,7 @@ exec_always --no-startup-id compton --config ~/.config/i3/compton.conf
 #bar end
 
 # polybar launch script
-#exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 
 # DarkGrey background with white text - not focus grey background - black text
